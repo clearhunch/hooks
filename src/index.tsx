@@ -1,0 +1,1 @@
+export * as useIndexedDB from './useIndexedDB';

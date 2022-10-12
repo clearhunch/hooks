@@ -1,0 +1,22 @@
+{
+  "name": "@clearhunch/needle",
+  "version": "1.0.0",
+  "description": "React hook for IndexedDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/clearhunch/needle.git"
+  },
+  "author": "Chris Edge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clearhunch/needle/issues"
+  },
+  "homepage": "https://github.com/clearhunch/needle#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
