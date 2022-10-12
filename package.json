@@ -1,8 +1,8 @@
 {
-  "name": "@clearhunch/needle",
+  "name": "@clearhunch/hooks",
   "version": "1.0.0",
-  "description": "React hook for IndexedDB",
-  "main": "index.js",
+  "description": "React hooks",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
